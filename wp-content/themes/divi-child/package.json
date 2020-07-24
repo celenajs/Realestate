@@ -1,0 +1,32 @@
+{
+  "name": "judepress",
+  "version": "1.0.0",
+  "description": "Wordpress Theme Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jude Roerick Cabigas",
+  "license": "ISC",
+  "devDependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
+    "bootstrap": "^4.3.1",
+    "browser-sync": "^2.26.3",
+    "font-awesome": "^4.7.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-changed": "^3.2.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-line-ending-corrector": "^1.0.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "izimodal": "^1.5.1",
+    "slick-carousel": "^1.8.1"
+  },
+  "dependencies": {
+    "swiper": "^4.5.0"
+  }
+}

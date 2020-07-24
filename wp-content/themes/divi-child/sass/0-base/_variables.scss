@@ -1,0 +1,20 @@
+$img: '../images/';
+
+$breakpoints: (
+  xxs: 320px,
+  xs: 480px,
+  s: 768px,
+  m: 992px,
+  l: 1200px,
+  xl: 1400px,
+  xxl: 1600px,
+  xxxl: 1800px,
+  sl: 2000px,
+);
+
+// sizing
+$base: 62.5%;
+
+$prim: darken(#ee7521,10%);
+$sec: #f5cf0d;
+

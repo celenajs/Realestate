@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /guide/
+
+User-agent: Googlebot
+Allow: /*.js
+Allow: /*.css
+
+User-agent: Googlebot-Mobile
+Allow: /*.js
+Allow: /*.css
+
+Sitemap: https://www.domain.com/sitemap.xml
